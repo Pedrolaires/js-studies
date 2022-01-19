@@ -1,0 +1,1 @@
+console.log(`Seu nome é: ${pedro}`)
