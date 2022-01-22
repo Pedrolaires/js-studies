@@ -1,2 +1,2 @@
 # js-ts-studies
-Estudos principalmente sobre a sintaxe do JS e TS
+Estudos sobre a sintaxe JS.
