@@ -1,2 +1,2 @@
 # js-ts-studies
-Estudos sobre a sintaxe JS.
+Estudos variados sobre JavaScript, patterns e web em geral.
