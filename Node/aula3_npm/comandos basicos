@@ -1,0 +1,9 @@
+npm install express
+npm install express@4.x
+npm install express@4.x -E
+npm uninstall express
+
+npm outdated
+npm update
+npm ls
+
